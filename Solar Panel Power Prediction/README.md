@@ -4,3 +4,4 @@ This project aims to predict solar panel energy output with extreme gradient boo
 Dataset:
 https://www.kaggle.com/datasets/saurabhshahane/northern-hemisphere-horizontal-photovoltaic?resource=download
 
+Credits: Created by Abhinav-Yarlagadda and K-maker411
